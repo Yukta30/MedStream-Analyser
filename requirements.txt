@@ -1,0 +1,5 @@
+pyspark
+boto3
+psycopg2
+pyyaml
+kafka-python

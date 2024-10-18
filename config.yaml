@@ -1,0 +1,7 @@
+redshift:
+  jdbc_url: "XXX"
+  user: "XXX"
+  password: "XXX"
+  tempdir: "XXX"   
+  aws_access_key: ""
+  aws_secret_key: ""
